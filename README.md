@@ -41,7 +41,6 @@ TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION, AND MODIFICATION
 2. Add the following wording to your copyright statements:
 
 ```
-Copyright © YEAR Your Name <your@address>
 This work is free. You can redistribute it and/or modify it under the
 terms of the Do What The Fuck You Want To Public License, Version 69.420,
 as published by Sean-Patrick Clayton. See the COPYING file for more details.
@@ -50,10 +49,9 @@ as published by Sean-Patrick Clayton. See the COPYING file for more details.
 If for practical reasons you cannot provide a separate COPYING file, you can copy/paste the license text under the above mention. Alternatively, you can link to this website:
 
 ```
-Copyright © YEAR Your Name <your@address>
 This work is free. You can redistribute it and/or modify it under the
 terms of the Do What The Fuck You Want To Public License, Version 69.420,
-as published by Sean-Patrick Clayton. See https://www.github.com/sean-clayton/WTFPL-69.420 for more details.
+as published by Sean-Patrick Clayton. See https://www.sean.wtf/WTFPL-69.420 for more details.
 ```
 
 [wtfpl]: http://www.wtfpl.net/
